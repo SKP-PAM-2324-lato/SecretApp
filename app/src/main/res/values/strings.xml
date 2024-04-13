@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SecretMessage</string>
+    <string name="welcome_text">Witaj w aplikacji Secret Message!
+        Użyj jej, aby zaszyfrować swoją tajną wiadmość.
+        Naciśnij przycisk start aby rozpocząć
+    </string>
+    <string name="start">Start</string>
+    <string name="message_hint">Wprowadź swoją wiafomość</string>
+    <string name="next">Dalej</string>
+    <string name="encrypt_text">Twoja zaszyfrowana wiadomość</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+</resources>
